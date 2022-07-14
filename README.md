@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JsCode7, JS cause my name is José Sánchez 😊
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Python
-- 📫 How to reach me jose.sanchez.nj@gmail.com
+- 📫 How to reach me js.dev.sanchez@gmail.com
 - 🎮 Fun fact I ❤️ Genshin Impact
 
 
