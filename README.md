@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JsCode7, JS cause my name is José Sánchez 😊
 - 👀 I’m interested in Data science and App development
-- 🌱 I’m currently learning .NET (C#)
+- 🌱 I’m currently learning Kotlin (Android Development)
 - 📫 How to reach me js.dev.sanchez@gmail.com
 - 🎮 Fun fact I ❤️ Genshin Impact
 
